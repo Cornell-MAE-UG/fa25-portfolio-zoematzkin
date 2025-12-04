@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Zoe Matzkin>
 ---
 
 ## About Me
