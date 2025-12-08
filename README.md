@@ -1,5 +1,10 @@
 Run local instance: bundle exec jekyll serve
 
+Git Commit:
+git add .
+git commit -m "your update message"
+git push origin main
+
 # Portfolio Instructions
 
 This is a template for you to start building your professional portfolio. It is also part of your journey at MAE and will be reviewed, as needed, by your instructor and the Undergraduate Program Office.
