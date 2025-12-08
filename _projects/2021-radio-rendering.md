@@ -11,16 +11,20 @@ For a class, we were asked to CAD a complex object. This design was...Lorem ipsu
 The goal for this torque wrench is for it to withstand a 600 in-lbf moment on its driver while be supported at the end of its shaft. It shall have a factor of safety of 4 against yield, a factor of safety of 2 against crack growth (for a crack 0.04 in deep) and a factor of safety of 1.5 for fatigue stress. It also needs a 1.0 mV/V output for its strain.
 
  With all of this considered, a MATLAB script meant to analyze the stresses from bending was used to find these values:
-Geometry
+ <br>
+Geometry:
 Outer radius: ro = 0.4 in
 Inner radius: ri = 0.3 in
 Distance from center of drive to strain gauge: c = ro
 Length of wrench: L = 18 in
-Material Properties (Ti–6Al–4V)
+<br>
+Material Properties (Ti–6Al–4V):
 Young’s modulus: E = 16.5×10^6 psi
 Ultimate tensile strength: ou = 138.0×10^3 psi
 Fracture toughness: KIC = 68.3×10^3 psi·√in
 Fatigue strength at 10^6 cycles: S = 74.0×10^3 psi
+<br>
+<br>
 This yielded these results:
 Max Stress: 17,461.57 psi
 Max Deflection: 0.22577 in
