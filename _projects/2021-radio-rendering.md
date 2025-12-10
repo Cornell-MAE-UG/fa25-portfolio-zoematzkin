@@ -21,6 +21,8 @@ Material Properties (Ti–6Al–4V):<br>
 -Ultimate tensile strength: ou = 138.0×10^3 psi<br>
 -Fracture toughness: KIC = 68.3×10^3 psi·√in<br>
 -Fatigue strength at 10^6 cycles: S = 74.0×10^3 psi<br>
+<br>
+![Shaded rendering of earlier version]({{ "/assets/images/tr0.png" | relative_url }}){: style="width: 60%;"}
 
 <br>
 This yielded these results:
@@ -38,8 +40,17 @@ Shown below is an FEM model of the torque wrench, where it was fixed on the driv
 
 
 
-![Shaded rendering of earlier version]({{ "/assets/images/radio-machine.jpg" | relative_url }})
+![Shaded rendering of earlier version]({{ "/assets/images/tr1.png" | relative_url }}){: style="width: 60%;"}
+
+![Shaded rendering of earlier version]({{ "/assets/images/tr2.png" | relative_url }}){: style="width: 60%;"}
+
+![Shaded rendering of earlier version]({{ "/assets/images/tr3.png" | relative_url }}){: style="width: 60%;"}
+
+![Shaded rendering of earlier version]({{ "/assets/images/tr4.png" | relative_url }}){: style="width: 60%;"}
+
+![Shaded rendering of earlier version]({{ "/assets/images/tr5.png" | relative_url }}){: style="width: 60%;"}
+
+![Shaded rendering of earlier version]({{ "/assets/images/tr6.png" | relative_url }}){: style="width: 60%;"}
 
 
-![Photo of old radio]({{ "/assets/images/old-radio.jpg" | relative_url }})
 
