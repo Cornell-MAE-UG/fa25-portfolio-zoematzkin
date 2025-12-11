@@ -8,53 +8,50 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [zkm8@cornell.edu](mailto:zkm8@cornell.edu) | | | **Phone:** +207 303 2383
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in structural design. Passionate about aviation and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 4.0/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
+- **Cape Elizabeth High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2023
 
 ---
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Programming:** Python, MATLAB, Java 
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Structural Bulkhead**:  
+  *Designed a bulkhead to support the planes landing gear during horizontal landings*  
+  
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Tilt Rotor Calculations**:  
+  *Did initial calclations to select servos for tilt rotor mechanisms*  
+ 
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Lockheed Martin - Intern**  
+  [June, 2025] - [August, 2025]  
+ 
 
----
+<!-- ---
 
 #### Achievements & Certifications
 - [Certification Name], [Issuing Organization], [Year]  
@@ -71,4 +68,4 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### References
 Available upon request.
 
----
+--- -->
