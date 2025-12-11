@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3230 Fluid Mechanical Dissection
 description: Talked about the fluid mechanics of a weed wacker
-technologies: [SolidWorks, Machining]
+# technologies: [SolidWorks, Machining]
 image: /assets/images/weed wacker.png
 ---
 

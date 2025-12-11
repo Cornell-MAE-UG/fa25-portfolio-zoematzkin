@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in structural design. Passionate about aviation and eager to apply my knowledge in real-world applications. TEST
+Aspiring engineering student with a strong foundation in structural design. Passionate about aviation and eager to apply my knowledge in real-world applications. 
 
 ---
 

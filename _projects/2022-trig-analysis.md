@@ -5,7 +5,6 @@ description: Investigating the system dynamics of a heart
 technologies: [MATLAB, python]
 image: /assets/images/heart-picture.png
 ---
-TEST
 
 Here is the report where I analyzed the human heart as a closed loop system:
 
