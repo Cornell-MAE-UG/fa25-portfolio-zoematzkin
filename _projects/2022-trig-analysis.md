@@ -2,7 +2,7 @@
 layout: project
 title: MAE 3270 Heart Analysis
 description: Investigating the system dynamics of a heart
-technologies: [MATLAB, python]
+technologies: [MATLAB]
 image: /assets/images/heart-picture.png
 ---
 
