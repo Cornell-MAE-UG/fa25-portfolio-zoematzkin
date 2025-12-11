@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Zoe Matzkin Resume FA25.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [zkm8@cornell.edu](mailto:zkm8@cornell.edu) | | | **Phone:** +207 303 2383

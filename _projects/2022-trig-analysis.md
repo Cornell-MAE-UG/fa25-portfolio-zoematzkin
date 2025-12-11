@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
+title: MAE 3270 Heart Analysis
+description: Investigating the system dynamics of a heart
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
 ---
