@@ -6,6 +6,7 @@ technologies: [Autodesk Fusion, Ansys, MATLAB]
 image: /assets/images/driver.png
 ---
 
+Test hi <br>
 The goal for this torque wrench is for it to withstand a 600 in-lbf moment on its driver while be supported at the end of its shaft. It shall have a factor of safety of 4 against yield, a factor of safety of 2 against crack growth (for a crack 0.04 in deep) and a factor of safety of 1.5 for fatigue stress. It also needs a 1.0 mV/V output for its strain.
 
  With all of this considered, a MATLAB script meant to analyze the stresses from bending was used to find these values:
