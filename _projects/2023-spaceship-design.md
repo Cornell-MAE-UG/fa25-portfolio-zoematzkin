@@ -1,14 +1,17 @@
 ---
 layout: project
-title: MAE 3230 Fluid Mechanical Dissection
-description: Talked about the fluid mechanics of a weed wacker
-# technologies: [SolidWorks, Machining]
-image: /assets/images/weed wacker.png
+title: MAE 3240 Assignment
+description: helpful assignment from mae 3240
+image: /assets/images/hw1.png
+image: /assets/images/hw2.png
+image: /assets/images/hw3.png
+
 ---
 
-For this project, I took apart a weed wacker with my groups to analyze and then teach about the fluid mechanics of the system. I focused on the fuel line that carries gasoline from the fuel tank to the carburetor. I analyzed the engine as a whole to determine the flow rate of the fuel, and then used this flow rate and the dimensions of the pipe to determine the speed of the gasoline in the line. With this speed, I was able to find the reynolds number of the moving gas and the viscoss losses of pressure. Aside from looking at the fuel line, I also helped edit the video together.<br>
+This assignment covers the basics of how heat actually moves through different materials in a steady-state system. I learned how to calculate the total power q required to keep a water heater at a steady 50°C when the outside air is much cooler at 20°C. It was also interesting to see how much of a difference a small 2 cm layer of foam can make in saving energy. Beyond just tanks and foam, the laser manufacturing part showed me how to read temperature maps (isotherms) to figure out exactly where heat is flowing during complex processes like 3D metal printing.
+
+This kind of math is super practical for any mechanical engineer designing hardware. Whether it’s making sure a 10 cm plastic housing doesn't melt or figuring out how to keep a thin-film heater under its 200°C safety limit, these calculations help prevent parts from failing. It's basically the foundation for making stuff more energy-efficient and safer. Being able to predict how heat will spread—especially in high-tech areas like laser-based manufacturing—is the difference between a product that works and one that overheats and breaks.<br>
 <br>
-The video can be found with this link: <br>
-[video link](https://www.youtube.com/watch?v=heM3BsLl4ek)
+
 
 
