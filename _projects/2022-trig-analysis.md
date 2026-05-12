@@ -1,11 +1,18 @@
 ---
 layout: project
-title: MAE 3270 Heart Analysis
-description: Investigating the system dynamics of a heart
-technologies: [MATLAB]
-image: /assets/images/heart-picture.png
+title: Mechatronics Robot
+description: A robot designed to contain as many cubes as possible
+image: /assets/images/robot.png
 ---
 
-Here is the report where I analyzed the human heart as a closed loop system:
 
-[View my report]({{ "/assets/heart.docx.pdf" | relative_url }}) in PDF format.
+<div class="pdf-container" style="margin: 20px 0;">
+    <iframe 
+        src="{{ '/assets/mechFinal.pdf' | relative_url }}" 
+        width="100%" 
+        height="600px" 
+        style="border: none;">
+    </iframe>
+</div>
+
+<br>
