@@ -34,6 +34,13 @@ This yielded these results:
 -Fatigue Safety Factor: 4.2379<br>
 -mV/V: 1.0583<br>
 <br>
+{% comment %} Set the PDF path here after adding your file to the repo. {% endcomment %}
+{% assign pdf_path = "/assets/files/2021-torque-wrench-report.pdf" %}
+<div style="margin: 2rem 0;">
+	<p><strong>Project report:</strong> <a href="{{ pdf_path | relative_url }}" target="_blank" rel="noopener">Open PDF</a></p>
+	<iframe src="{{ pdf_path | relative_url }}" width="100%" height="700" style="border:1px solid #ccc; min-height:400px;"></iframe>
+</div>
+
 Ti-6Al-4V was chosen due to its high tensile strength and fracture toughness yet its relatively low youngs modulus. High strength and toughness is important to prevent the part from breaking, and it allows for a thinner geometry. This thinner geometry will allow for the part to experience more strain, which will help the strain gauge get a better reading. The relatively low Young's modulus further helps the wrench have more strain. Essentially, this is a ductile material. On top of its structural benefits, it is also quite light, known for its high strength to weight ratio.
 Shown below is an FEM model of the torque wrench, where it was fixed on the driver and a 37.5 lb force was applied at its end. Its maximum deflection is 0.27274 in, and its maximum stress was 46227 psi after refinement. <br>
 <br>
