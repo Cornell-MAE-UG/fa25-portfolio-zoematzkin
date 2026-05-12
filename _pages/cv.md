@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Zoe Matzkin - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -13,7 +13,7 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in structural design. Passionate about aviation and eager to apply my knowledge in real-world applications. 
+Aspiring engineering student with a strong foundation in structural design. Passionate about aviation and eager to apply my knowledge in real-world applications.
 
 ---
 
